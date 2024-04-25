@@ -1,5 +1,5 @@
 <div align="center" dir="auto">
-![askui logo](./askui-logo-white.svg.svg#gh-dark-mode-only)
+![askui logo](./askui-logo-white.svg#gh-dark-mode-only)
 ![askui logo](./askui-logo.svg#gh-light-mode-only)
 </div>
 
