@@ -17,17 +17,17 @@
 [AskUI Workflow Example Files](https://github.com/askui/askui-examples)
 
 ## Android
-[askui-example-android-multi-device](https://github.com/askui/askui-example-android-multi-device)
+[askui-example-android-multi-device](https://github.com/askui/askui-example-android-multi-device)  
 [askui-example-android-parallel-devices](https://github.com/askui/askui-example-android-parallel-devices)
 
 ## Flutter
-[flutter-example-automation](https://github.com/askui/flutter-example-automation)
+[flutter-example-automation](https://github.com/askui/flutter-example-automation)  
 
 ## Reporters
-[askui-reporters](https://github.com/askui/askui-reporters)
-[askui-example-xray-reporter](https://github.com/askui/askui-example-xray-reporter)
-[askui-example-allure-reporter](https://github.com/askui/askui-example-allure-reporter)
-[askui-example-jest-html-reporters](https://github.com/askui/askui-example-jest-html-reporters)
+[askui-reporters](https://github.com/askui/askui-reporters)  
+[askui-example-xray-reporter](https://github.com/askui/askui-example-xray-reporter)  
+[askui-example-allure-reporter](https://github.com/askui/askui-example-allure-reporter)  
+[askui-example-jest-html-reporters](https://github.com/askui/askui-example-jest-html-reporters)  
 
 ### Reporter Environments
 [askui-jest-xray-environment](https://github.com/askui/askui-jest-xray-environment)
