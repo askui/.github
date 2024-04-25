@@ -1,4 +1,3 @@
-https://github.com/askui/.github/blob/main/profile/askui-logo-white.svg
 ![askui logo](https://github.com/askui/.github/blob/main/profile/askui-logo-white.svg#gh-dark-mode-only)
 ![askui logo](https://github.com/askui/.github/blob/main/profile/askui-logo.svg#gh-light-mode-only)
 
