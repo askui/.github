@@ -2,5 +2,8 @@
 ![askui logo](https://github.com/askui/.github/blob/main/profile/askui-logo.svg#gh-light-mode-only)
 
 <div align="center" dir="auto>
-  <h1 style="text-align:center">Testing or Automating User Interfaces?</h1>
+
+  <div class="markdown-heading" dir="auto">
+    <h1 align="center" class="heading-element" dir="auto">Testing or Automating User Interfaces?</h1>
+  </div>
 </div>
