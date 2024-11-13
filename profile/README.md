@@ -18,9 +18,9 @@
 
 ---
 
-## ⚠️ **WE ARE DEPRECATING OUR TYPESCRIPT SDK** ⚠️
+## TYPESCRIPT UI AUTOMATION LIBRARY
 <details>
-  <summary>Deprecated Repositories</summary>
+  <summary>Repositories</summary>
   [Intent Pilot](https://github.com/askui/intent-pilot)
 
   # Example Repositories
