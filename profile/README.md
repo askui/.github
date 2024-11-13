@@ -18,7 +18,7 @@
 
 ---
 
-## TYPESCRIPT UI AUTOMATION LIBRARY
+## TypeScript UI Automation Library
 <details>
   <summary>Repositories</summary>
   [Intent Pilot](https://github.com/askui/intent-pilot)
