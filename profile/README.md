@@ -57,7 +57,7 @@
 
 # Support
 
-📜 [Developer Docs](https://docs.askui.com/)
+📜 [Developer Docs](https://docs.askui.com/)  
 🏛️ [Community-Forum](https://community.askui.com/forums/home)  
 📨 [E-Mail](info@askui.com)  
 🏠 [Homepage](https://www.askui.com/)
