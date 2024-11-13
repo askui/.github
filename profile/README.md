@@ -4,7 +4,7 @@
   ![askui logo](https://github.com/askui/.github/blob/main/profile/askui-logo.svg#gh-light-mode-only)
 
   <div class="markdown-heading" dir="auto">
-    <h1 align="center" class="heading-element" dir="auto">Testing or Automating User Interfaces?</h1>
+    <h1 align="center" class="heading-element" dir="auto">What can be seen, can be solved.</h1>
   </div>
 </div>
 
