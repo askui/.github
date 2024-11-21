@@ -4,7 +4,7 @@
   ![askui logo](https://github.com/askui/.github/blob/main/profile/askui-logo-primary.svg#gh-light-mode-only)
 
   <div class="markdown-heading" dir="auto">
-    <h1 align="center" class="heading-element" dir="auto">What can be seen, can be solved.</h1>
+    <h1 align="center" class="heading-element" dir="auto">What can be said, can be solved.</h1>
   </div>
 </div>
 
