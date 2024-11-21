@@ -21,7 +21,7 @@
 ## TypeScript UI Automation Library
 <details>
   <summary>Repositories</summary>
-  [Intent Pilot](https://github.com/askui/intent-pilot)
+  [AskUI](https://github.com/askui/askui)
 
   # Example Repositories
   [AskUI Workflow Example Files](https://github.com/askui/askui-examples)
@@ -57,7 +57,7 @@
 
 # Support
 
-📜 [Developer Docs](https://docs.askui.com/)  
-🏛️ [Community-Forum](https://community.askui.com/forums/home)  
+📜 [TypeScript Docs](https://docs.askui.com/)  
+🏛️ [Discord](https://discord.gg/Gu35zMGxbx)  
 📨 [E-Mail](info@askui.com)  
 🏠 [Homepage](https://www.askui.com/)
