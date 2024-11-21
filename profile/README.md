@@ -57,7 +57,8 @@
 
 # Support
 
-📜 [TypeScript Docs](https://docs.askui.com/)  
+📜 [TypeScript Docs](https://docs.askui.com/)
+😃 [Huggingface](https://huggingface.co/AskUI)
 🏛️ [Discord](https://discord.gg/Gu35zMGxbx)  
 📨 [E-Mail](info@askui.com)  
 🏠 [Homepage](https://www.askui.com/)
