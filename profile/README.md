@@ -15,6 +15,7 @@
 
 # Utilities
 [askui-practice-page](https://github.com/askui/askui-practice-page)
+[askui-best-practices](https://github.com/askui/AskUI-Best-Practices)
 
 ---
 
