@@ -15,7 +15,6 @@
 
 # Utilities
 [askui-practice-page](https://github.com/askui/askui-practice-page)  
-[askui-best-practices](https://github.com/askui/AskUI-Best-Practices)
 
 ---
 
@@ -23,6 +22,9 @@
 <details>
   <summary>Repositories</summary>
   [AskUI](https://github.com/askui/askui)
+
+  # Utilities
+  [askui-best-practices](https://github.com/askui/AskUI-Best-Practices)
 
   # Example Repositories
   [AskUI Workflow Example Files](https://github.com/askui/askui-examples)
