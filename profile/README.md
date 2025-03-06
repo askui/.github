@@ -60,7 +60,8 @@
 
 # Support
 
-📜 [TypeScript Docs](https://docs.askui.com/)  
+📜 [Docs](https://docs.askui.com/) 
+📜 [TS Docs](https://docs-ts.askui.com/)  
 😃 [Huggingface](https://huggingface.co/AskUI)  
 🏛️ [Discord](https://discord.gg/Gu35zMGxbx)  
 📨 [E-Mail](info@askui.com)  
